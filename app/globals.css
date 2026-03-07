@@ -25,7 +25,7 @@
 
 /* ── Reset ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; overflow-x: hidden; }
 body {
   font-family: var(--font-poppins), 'Poppins', -apple-system, BlinkMacSystemFont, sans-serif;
   background: var(--bg-base);
@@ -56,6 +56,14 @@ img { display: block; }
 }
 .bg-green-mint {
   background: linear-gradient(170deg, #edfff7 0%, #d4f9e8 50%, #edfff7 100%);
+}
+
+/* Utility background aliases */
+.bg-warm       { background: var(--bg-base); }
+.bg-light      { background: #f0f4f8; }
+.section-warm  { background: var(--bg-base); }
+.section-warm-alt {
+  background: linear-gradient(170deg, #f7f3ef 0%, #eee8df 60%, #f7f3ef 100%);
 }
 
 /* Mesh overlays for depth */
@@ -127,10 +135,10 @@ img { display: block; }
 .hero-overlay {
   background: linear-gradient(
     180deg,
-    rgba(13,27,42,0.92) 0%,
-    rgba(26,56,117,0.70) 30%,
-    rgba(13,27,42,0.38) 65%,
-    rgba(13,27,42,0.72) 100%
+    rgba(13,27,42,0.82) 0%,
+    rgba(26,56,117,0.50) 30%,
+    rgba(13,27,42,0.28) 60%,
+    rgba(13,27,42,0.68) 100%
   );
 }
 
@@ -502,6 +510,8 @@ img { display: block; }
 @media(max-width:639px){
   html{font-size:15px;}
   .modal-card{border-radius:20px 20px 0 0!important;}
+  /* Prevent horizontal scroll from any source */
+  main, section { max-width: 100vw; }
 }
 
 /* ══════════════════════════════════════════

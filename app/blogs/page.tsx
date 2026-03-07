@@ -48,7 +48,7 @@ export default function BlogsPage() {
                 {blogs[0].title}
               </h2>
               <p className="text-gray-500 leading-relaxed mb-6">{blogs[0].excerpt}</p>
-              <div className="flex items-center gap-4 text-sm text-gray-400">
+              <div className="flex items-center gap-3 sm:gap-4 text-sm text-gray-400 flex-wrap">
                 <Image
                   src={blogs[0].authorImage}
                   alt={blogs[0].author}

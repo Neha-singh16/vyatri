@@ -60,7 +60,7 @@ export default function HeroSection() {
   return (
     <section
       className="relative w-full overflow-hidden -mt-[60px] sm:-mt-[64px] lg:-mt-[72px]"
-      style={{ height: '100svh', minHeight: '640px', maxHeight: '940px' }}
+      style={{ height: '100svh', minHeight: '560px', maxHeight: '900px' }}
       aria-label="Hero — explore group adventure trips"
     >
 
@@ -81,25 +81,25 @@ export default function HeroSection() {
       <div className="hero-overlay absolute inset-0 z-10" />
 
       {/* Content */}
-      <div className="relative z-20 h-full flex flex-col items-center justify-center px-4 sm:px-6 pt-16 pb-24">
+      <div className="relative z-20 h-full flex flex-col items-center justify-center px-4 sm:px-6 pt-[68px] sm:pt-20 pb-[92px] sm:pb-24">
         <div className="w-full max-w-4xl mx-auto text-center">
 
           {/* Location pill */}
-          <div className="inline-flex items-center gap-2 glass border border-white/25 px-4 py-1.5 rounded-full text-xs sm:text-sm font-semibold text-white mb-6 animate-fade-in">
-            <span className="w-2 h-2 bg-[#00c87a] rounded-full animate-pulse flex-shrink-0" />
+          <div className="inline-flex items-center gap-2 glass border border-white/25 px-3 sm:px-4 py-1 sm:py-1.5 rounded-full text-[11px] sm:text-sm font-semibold text-white mb-2.5 sm:mb-5 animate-fade-in">
+            <span className="w-1.5 h-1.5 sm:w-2 sm:h-2 bg-[#00c87a] rounded-full animate-pulse flex-shrink-0" />
             {SLIDES[active].label} — Feb & Mar 2026 batches now open
           </div>
 
           {/* Headline */}
           <h1 className="font-display font-black text-white text-shadow-lg animate-fade-up"
-            style={{ fontSize: 'clamp(2.4rem, 7.5vw, 5.2rem)', lineHeight: 1.04 }}>
+            style={{ fontSize: 'clamp(1.75rem, 6.5vw, 5rem)', lineHeight: 1.05 }}>
             Unlock Group
             <br />
             <span className="gradient-text">Adventures</span>
           </h1>
 
-          <p className="text-white/88 mt-4 mb-8 text-shadow animate-fade-up delay-100"
-            style={{ fontSize: 'clamp(0.92rem, 2.2vw, 1.15rem)' }}>
+          <p className="text-white/90 mt-1.5 mb-3 sm:mt-4 sm:mb-8 text-shadow animate-fade-up delay-100"
+            style={{ fontSize: 'clamp(0.82rem, 2.2vw, 1.15rem)' }}>
             <span className="text-[#ffbf44] font-semibold">Domestic</span>
             <span className="mx-2.5 text-white/35">•</span>
             <span className="text-[#ffbf44] font-semibold">International</span>
@@ -114,7 +114,7 @@ export default function HeroSection() {
             onSubmit={handleSearch}
             role="search"
             aria-label="Search trips"
-            className="bg-white/97 backdrop-blur-md rounded-2xl shadow-2xl p-3 sm:p-4 animate-fade-up delay-200 border border-white/50"
+            className="bg-white/95 backdrop-blur-xl rounded-2xl shadow-[0_8px_40px_rgba(0,0,0,0.12)] p-2 sm:p-4 animate-fade-up delay-200 border border-white/60"
           >
             {/* Desktop */}
             <div className="hidden sm:flex gap-1 items-center">
@@ -155,57 +155,57 @@ export default function HeroSection() {
             </div>
 
             {/* Mobile */}
-            <div className="sm:hidden space-y-2.5">
-              <div className="flex items-center gap-3 bg-[#f7f3ef] px-4 py-3.5 rounded-xl min-h-[54px] w-full">
-                <MapPin size={16} className="text-[#1a3875] flex-shrink-0" aria-hidden="true" />
+            <div className="sm:hidden space-y-1.5">
+              <div className="flex items-center gap-2.5 bg-[#f7f3ef] px-3 py-2 rounded-xl w-full">
+                <MapPin size={14} className="text-[#1a3875] flex-shrink-0" aria-hidden="true" />
                 <div className="min-w-0 flex-1">
-                  <label htmlFor={`${uid}-from-m`} className="text-[9px] font-black text-gray-400 uppercase tracking-widest">From</label>
-                  <select id={`${uid}-from-m`} className="bg-transparent text-[#0d1b2a] text-sm font-semibold w-full mt-0.5 focus:outline-none">
+                  <label htmlFor={`${uid}-from-m`} className="text-[8px] font-black text-gray-400 uppercase tracking-widest">From</label>
+                  <select id={`${uid}-from-m`} className="bg-transparent text-[#0d1b2a] text-[13px] font-semibold w-full focus:outline-none">
                     {FROM_CITIES.map(o => <option key={o}>{o}</option>)}
                   </select>
                 </div>
               </div>
-              <div className="flex items-center gap-3 bg-[#f7f3ef] px-4 py-3.5 rounded-xl min-h-[54px] w-full">
-                <Search size={16} className="text-[#1a3875] flex-shrink-0" aria-hidden="true" />
+              <div className="flex items-center gap-2.5 bg-[#f7f3ef] px-3 py-2 rounded-xl w-full">
+                <Search size={14} className="text-[#1a3875] flex-shrink-0" aria-hidden="true" />
                 <div className="min-w-0 flex-1">
-                  <label htmlFor={`${uid}-dest-m`} className="text-[9px] font-black text-gray-400 uppercase tracking-widest">Where to?</label>
+                  <label htmlFor={`${uid}-dest-m`} className="text-[8px] font-black text-gray-400 uppercase tracking-widest">Where to?</label>
                   <select
                     id={`${uid}-dest-m`}
-                    className="bg-transparent text-[#0d1b2a] text-sm font-semibold w-full mt-0.5 focus:outline-none"
+                    className="bg-transparent text-[#0d1b2a] text-[13px] font-semibold w-full focus:outline-none"
                     onChange={e => setDest(e.target.value)}
                   >
                     {DESTINATIONS.map(o => <option key={o}>{o}</option>)}
                   </select>
                 </div>
               </div>
-              <div className="grid grid-cols-2 gap-2">
-                <div className="flex items-center gap-2 bg-[#f7f3ef] px-3 py-3.5 rounded-xl min-h-[54px]">
-                  <Calendar size={14} className="text-[#1a3875] flex-shrink-0" aria-hidden="true" />
+              <div className="grid grid-cols-2 gap-1.5">
+                <div className="flex items-center gap-1.5 bg-[#f7f3ef] px-2.5 py-2 rounded-xl">
+                  <Calendar size={13} className="text-[#1a3875] flex-shrink-0" aria-hidden="true" />
                   <div className="min-w-0 flex-1">
-                    <label htmlFor={`${uid}-when-m`} className="text-[9px] font-black text-gray-400 uppercase tracking-widest">When</label>
-                    <select id={`${uid}-when-m`} className="bg-transparent text-[#0d1b2a] text-xs font-semibold w-full mt-0.5 focus:outline-none">
+                    <label htmlFor={`${uid}-when-m`} className="text-[8px] font-black text-gray-400 uppercase tracking-widest">When</label>
+                    <select id={`${uid}-when-m`} className="bg-transparent text-[#0d1b2a] text-xs font-semibold w-full focus:outline-none">
                       {MONTHS.map(o => <option key={o}>{o}</option>)}
                     </select>
                   </div>
                 </div>
-                <div className="flex items-center gap-2 bg-[#f7f3ef] px-3 py-3.5 rounded-xl min-h-[54px]">
-                  <Users size={14} className="text-[#1a3875] flex-shrink-0" aria-hidden="true" />
+                <div className="flex items-center gap-1.5 bg-[#f7f3ef] px-2.5 py-2 rounded-xl">
+                  <Users size={13} className="text-[#1a3875] flex-shrink-0" aria-hidden="true" />
                   <div className="min-w-0 flex-1">
-                    <label htmlFor={`${uid}-people-m`} className="text-[9px] font-black text-gray-400 uppercase tracking-widest">People</label>
-                    <select id={`${uid}-people-m`} className="bg-transparent text-[#0d1b2a] text-xs font-semibold w-full mt-0.5 focus:outline-none">
+                    <label htmlFor={`${uid}-people-m`} className="text-[8px] font-black text-gray-400 uppercase tracking-widest">People</label>
+                    <select id={`${uid}-people-m`} className="bg-transparent text-[#0d1b2a] text-xs font-semibold w-full focus:outline-none">
                       {TRAVELERS.map(o => <option key={o}>{o}</option>)}
                     </select>
                   </div>
                 </div>
               </div>
-              <button type="submit" className="btn-primary w-full py-4 rounded-xl font-bold text-base min-h-[56px] gap-2">
-                <Search size={18} aria-hidden="true" /> Search Trips
+              <button type="submit" className="btn-primary w-full py-2.5 rounded-xl font-bold text-sm min-h-[44px] gap-2">
+                <Search size={16} aria-hidden="true" /> Search Trips
               </button>
             </div>
           </form>
 
           {/* Quick search pills — clicking sets the destination and submits */}
-          <div className="flex flex-wrap justify-center gap-2 mt-5 animate-fade-up delay-300">
+          <div className="flex flex-wrap justify-center gap-1.5 sm:gap-2 mt-2.5 sm:mt-5 animate-fade-up delay-300">
             <span className="text-white/45 text-xs self-center hidden sm:block" aria-hidden="true">Popular:</span>
             {([
               { label:'🏔️ Spiti Valley', dest:'Spiti Valley' },
@@ -218,7 +218,7 @@ export default function HeroSection() {
                 key={label}
                 type="button"
                 onClick={() => { setDest(d); handleSearch({ preventDefault: () => {} } as React.FormEvent, d) }}
-                className="text-xs font-semibold glass border border-white/30 hover:border-white/60 px-3.5 py-1.5 rounded-full text-white transition-all active:scale-95 focus-visible:ring-2 focus-visible:ring-white focus-visible:outline-none"
+                className="text-[11px] sm:text-xs font-semibold glass border border-white/30 hover:border-white/60 px-2.5 sm:px-3.5 py-1 sm:py-1.5 rounded-full text-white transition-all active:scale-95 focus-visible:ring-2 focus-visible:ring-white focus-visible:outline-none"
                 aria-label={`Search trips to ${d}`}
               >
                 {label}
@@ -229,7 +229,7 @@ export default function HeroSection() {
       </div>
 
       {/* Slide indicator dots */}
-      <div className="absolute bottom-[76px] left-1/2 -translate-x-1/2 z-20 flex gap-2">
+      <div className="absolute bottom-[62px] sm:bottom-[76px] left-1/2 -translate-x-1/2 z-20 flex gap-2">
         {SLIDES.map((_, i) => (
           <button key={i} onClick={() => setActive(i)}
             className={`rounded-full transition-all duration-300 ${i === active ? 'w-7 h-2 bg-[#ff6b1a]' : 'w-2 h-2 bg-white/50 hover:bg-white/80'}`}

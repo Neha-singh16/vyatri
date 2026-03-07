@@ -47,7 +47,7 @@ const DESTINATIONS = [
 
 export default function DestinationsStrip() {
   return (
-    <section className="py-12 sm:py-18" style={{
+    <section className="py-12 sm:py-20" style={{
       background: 'linear-gradient(170deg, #f7f3ef 0%, #ede8e0 60%, #f7f3ef 100%)'
     }}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
