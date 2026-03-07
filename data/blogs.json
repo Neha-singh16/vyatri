@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "slug": "spiti-valley-travel-guide-2026",
+    "title": "Ultimate Spiti Valley Travel Guide 2026",
+    "excerpt": "Everything you need to know before visiting the cold desert of Himachal Pradesh — permits, best season, itinerary, and insider tips.",
+    "content": "Spiti Valley is one of India's most spectacular destinations...",
+    "category": "Destination Guide",
+    "author": "Arjun Sharma",
+    "authorImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+    "publishedAt": "2026-01-15",
+    "readTime": "8 min read",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    "tags": ["Spiti", "Himachal", "Backpacking", "Adventure"]
+  },
+  {
+    "id": "2",
+    "slug": "budget-backpacking-southeast-asia",
+    "title": "Budget Backpacking Southeast Asia from India",
+    "excerpt": "How to explore Thailand, Vietnam, and Bali on a shoestring budget — flights, visas, accommodation, and food hacks for Indian travelers.",
+    "content": "Southeast Asia is a backpacker's paradise...",
+    "category": "Budget Travel",
+    "author": "Priya Nair",
+    "authorImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
+    "publishedAt": "2026-01-08",
+    "readTime": "10 min read",
+    "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800&q=80",
+    "tags": ["Southeast Asia", "Budget", "Backpacking", "Thailand"]
+  },
+  {
+    "id": "3",
+    "slug": "weekend-getaways-from-delhi",
+    "title": "15 Best Weekend Getaways from Delhi in 2026",
+    "excerpt": "Under 5 hours drive from Delhi — Rishikesh, Kasol, Lansdowne, Sariska, and more hidden gems for a quick escape from the capital.",
+    "content": "Delhi residents are spoiled for choice when it comes to weekend escapes...",
+    "category": "Weekend Trips",
+    "author": "Vikram Singh",
+    "authorImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
+    "publishedAt": "2025-12-28",
+    "readTime": "7 min read",
+    "image": "https://images.unsplash.com/photo-1596436052531-80fde3d00b16?w=800&q=80",
+    "tags": ["Delhi", "Weekend", "Road Trip", "Hills"]
+  },
+  {
+    "id": "4",
+    "slug": "solo-travel-india-safety-tips",
+    "title": "Solo Travel in India: Complete Safety & Planning Guide",
+    "excerpt": "Solo travel in India is incredibly rewarding. Here's how to plan, stay safe, and make the most of your solo adventure — for all genders.",
+    "content": "India is a vast and diverse country perfect for solo exploration...",
+    "category": "Solo Travel",
+    "author": "Meera Kapoor",
+    "authorImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
+    "publishedAt": "2025-12-10",
+    "readTime": "12 min read",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&q=80",
+    "tags": ["Solo Travel", "Safety", "India", "Tips"]
+  },
+  {
+    "id": "5",
+    "slug": "bhutan-travel-guide-indians",
+    "title": "Bhutan Travel Guide for Indians: Everything You Need to Know",
+    "excerpt": "Indians don't need a visa for Bhutan! Here's everything about permits, costs, best places, and how to experience the happiest country on Earth.",
+    "content": "Bhutan is one of the few countries that Indians can visit without a visa...",
+    "category": "International",
+    "author": "Rahul Mehta",
+    "authorImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+    "publishedAt": "2025-11-25",
+    "readTime": "9 min read",
+    "image": "https://images.unsplash.com/photo-1585034284985-3e1b2e47e9e8?w=800&q=80",
+    "tags": ["Bhutan", "International", "No Visa", "Culture"]
+  }
+]

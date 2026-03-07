@@ -1,0 +1,935 @@
+[
+  {
+    "id": "spiti-valley-7d",
+    "slug": "spiti-valley-7d",
+    "title": "Spiti Valley Explorer",
+    "subtitle": "Cold Desert \u00b7 Buddhist Monasteries \u00b7 Snow Peaks",
+    "category": "domestic",
+    "tags": [
+      "backpacking",
+      "adventure",
+      "himachal"
+    ],
+    "duration": "7D / 6N",
+    "days": 7,
+    "price": 15999,
+    "originalPrice": 19999,
+    "groupSize": "12\u201315 People",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-13",
+    "nextBatch": "Mar 7, 2026",
+    "difficulty": "Moderate",
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=800&q=80",
+      "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&q=80"
+    ],
+    "departure": "Delhi",
+    "highlights": [
+      "Key Monastery",
+      "Chandratal Lake",
+      "Kaza Town",
+      "Kibber Village",
+      "Hikkim Post Office"
+    ],
+    "inclusions": [
+      "Transport (Tempo Traveller)",
+      "Homestay/Hotel",
+      "Breakfast + Dinner",
+      "Experienced Guide",
+      "Permits"
+    ],
+    "exclusions": [
+      "Lunches",
+      "Personal Expenses",
+      "Travel Insurance"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Shimla",
+        "desc": "Overnight bus. Arrive Shimla by morning."
+      },
+      {
+        "day": 2,
+        "title": "Shimla to Nako",
+        "desc": "Drive through Kinnaur Valley via Sangla."
+      },
+      {
+        "day": 3,
+        "title": "Nako to Kaza",
+        "desc": "Cross Spiti Valley. Visit Dhankar Monastery."
+      },
+      {
+        "day": 4,
+        "title": "Kaza Sightseeing",
+        "desc": "Key Monastery, Kibber, Hikkim Post Office."
+      },
+      {
+        "day": 5,
+        "title": "Chandratal Lake",
+        "desc": "Trek to the crescent moon lake. Camp overnight."
+      },
+      {
+        "day": 6,
+        "title": "Kaza to Manali",
+        "desc": "Cross Rohtang Pass. Arrive Manali."
+      },
+      {
+        "day": 7,
+        "title": "Manali to Delhi",
+        "desc": "Overnight bus back to Delhi."
+      }
+    ],
+    "description": "Experience the raw beauty of Spiti \u2014 a cold desert mountain valley. Buddhist monasteries on rocky cliffs, crystal-clear skies, and warm homestays.",
+    "rating": 4.9,
+    "reviews": 87,
+    "badge": "Bestseller"
+  },
+  {
+    "id": "kasol-kheerganga-weekend",
+    "slug": "kasol-kheerganga-weekend",
+    "title": "Kasol & Kheerganga Trek",
+    "subtitle": "Parvati Valley \u00b7 Hot Springs \u00b7 Pine Forest",
+    "category": "domestic",
+    "tags": [
+      "backpacking",
+      "trek",
+      "weekend"
+    ],
+    "duration": "3D / 2N",
+    "days": 3,
+    "price": 7999,
+    "originalPrice": 9999,
+    "groupSize": "15\u201320 People",
+    "startDate": "2026-02-20",
+    "endDate": "2026-02-22",
+    "nextBatch": "Feb 20, 2026",
+    "difficulty": "Easy\u2013Moderate",
+    "image": "https://images.unsplash.com/photo-1600679472829-3044539ce405?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1600679472829-3044539ce405?w=800&q=80",
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&q=80"
+    ],
+    "departure": "Delhi",
+    "highlights": [
+      "Kasol Village",
+      "Kheerganga 13km Trek",
+      "Natural Hot Springs",
+      "Parvati River Camp",
+      "Israeli Cafes"
+    ],
+    "inclusions": [
+      "Volvo Bus",
+      "Tent Stay",
+      "Breakfast + Dinner",
+      "Trek Guide"
+    ],
+    "exclusions": [
+      "Lunches",
+      "Personal Expenses"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Kasol",
+        "desc": "Volvo overnight. Arrive Kasol. Explore village."
+      },
+      {
+        "day": 2,
+        "title": "Kheerganga Trek",
+        "desc": "13km trek through pine forest. Hot springs at top."
+      },
+      {
+        "day": 3,
+        "title": "Trek down + Return",
+        "desc": "Morning descent. Bus back to Delhi."
+      }
+    ],
+    "description": "Kasol's hippie vibe meets Kheerganga's natural hot springs. Trek through dense pine forests, camp under stars.",
+    "rating": 4.8,
+    "reviews": 142,
+    "badge": "Weekend"
+  },
+  {
+    "id": "bhutan-backpacking-7d",
+    "slug": "bhutan-backpacking-7d",
+    "title": "Bhutan Backpacking",
+    "subtitle": "Tiger's Nest \u00b7 Punakha Dzong \u00b7 Thimphu",
+    "category": "international",
+    "tags": [
+      "international",
+      "backpacking",
+      "culture"
+    ],
+    "duration": "7D / 6N",
+    "days": 7,
+    "price": 24999,
+    "originalPrice": 29999,
+    "groupSize": "10\u201312 People",
+    "startDate": "2026-03-14",
+    "endDate": "2026-03-20",
+    "nextBatch": "Mar 14, 2026",
+    "difficulty": "Easy",
+    "image": "https://images.unsplash.com/photo-1567447638851-1e5c1ee0ccf3?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1567447638851-1e5c1ee0ccf3?w=800&q=80",
+      "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?w=800&q=80"
+    ],
+    "departure": "Delhi",
+    "highlights": [
+      "Tiger's Nest Monastery",
+      "Punakha Dzong",
+      "Thimphu City",
+      "Dochula Pass",
+      "Bhutanese Culture"
+    ],
+    "inclusions": [
+      "Flight Delhi\u2013Paro\u2013Delhi",
+      "3-Star Hotel",
+      "All Meals",
+      "Visa Assistance",
+      "Guide"
+    ],
+    "exclusions": [
+      "Personal Expenses",
+      "Tips"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Paro",
+        "desc": "Fly to Paro. Transfer to Thimphu."
+      },
+      {
+        "day": 2,
+        "title": "Thimphu Sightseeing",
+        "desc": "Buddha Dordenma, National Museum, local market."
+      },
+      {
+        "day": 3,
+        "title": "Punakha",
+        "desc": "Drive to Punakha. Visit Punakha Dzong."
+      },
+      {
+        "day": 4,
+        "title": "Tiger's Nest",
+        "desc": "Trek to Paro Taktsang (2\u20133 hrs). Most iconic spot."
+      },
+      {
+        "day": 5,
+        "title": "Dochula Pass",
+        "desc": "108 stupas with Himalayan panorama."
+      },
+      {
+        "day": 6,
+        "title": "Paro local",
+        "desc": "Local sightseeing. Traditional hot stone bath."
+      },
+      {
+        "day": 7,
+        "title": "Return Delhi",
+        "desc": "Flight back to Delhi."
+      }
+    ],
+    "description": "The Last Shangri-La. Tiger's Nest, Dzongs, mountains \u2014 Bhutan is unlike anywhere. Small groups, full experience.",
+    "rating": 4.9,
+    "reviews": 56,
+    "badge": "International"
+  },
+  {
+    "id": "thailand-islands-7d",
+    "slug": "thailand-islands-7d",
+    "title": "Thailand Islands & Bangkok",
+    "subtitle": "Phi Phi Islands \u00b7 Phuket \u00b7 Bangkok Nightlife",
+    "category": "international",
+    "tags": [
+      "international",
+      "beach",
+      "adventure"
+    ],
+    "duration": "7D / 6N",
+    "days": 7,
+    "price": 27999,
+    "originalPrice": 34999,
+    "groupSize": "12\u201318 People",
+    "startDate": "2026-03-21",
+    "endDate": "2026-03-27",
+    "nextBatch": "Mar 21, 2026",
+    "difficulty": "Easy",
+    "image": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800&q=80"
+    ],
+    "departure": "Delhi",
+    "highlights": [
+      "Phi Phi Islands",
+      "Phuket Beach",
+      "Bangkok Street Food",
+      "Thai Cooking Class",
+      "Island Hopping"
+    ],
+    "inclusions": [
+      "Flights Delhi\u2013Bangkok\u2013Delhi",
+      "3-Star Hotels",
+      "Breakfast Daily",
+      "Guide",
+      "Island Hopping Tour"
+    ],
+    "exclusions": [
+      "Lunches/Dinners",
+      "Personal Expenses"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Bangkok",
+        "desc": "Night flight. Check in hotel."
+      },
+      {
+        "day": 2,
+        "title": "Bangkok Day",
+        "desc": "Grand Palace, Wat Pho, Khao San Road."
+      },
+      {
+        "day": 3,
+        "title": "Bangkok to Phuket",
+        "desc": "Domestic flight. Beach hotel check-in."
+      },
+      {
+        "day": 4,
+        "title": "Phi Phi Islands",
+        "desc": "Full-day speedboat island hopping."
+      },
+      {
+        "day": 5,
+        "title": "Phuket Beach",
+        "desc": "Patong Beach, Old Town, Big Buddha."
+      },
+      {
+        "day": 6,
+        "title": "Cooking Class + Markets",
+        "desc": "Thai cooking class, night market."
+      },
+      {
+        "day": 7,
+        "title": "Return Delhi",
+        "desc": "Flight back to Delhi."
+      }
+    ],
+    "description": "Thailand's best \u2014 Bangkok's chaos, Phi Phi's turquoise waters, Phuket's sunsets. One unforgettable group trip.",
+    "rating": 4.8,
+    "reviews": 78,
+    "badge": "Hot Deal"
+  },
+  {
+    "id": "rajasthan-royal-circuit-5d",
+    "slug": "rajasthan-royal-circuit-5d",
+    "title": "Rajasthan Royal Circuit",
+    "subtitle": "Jaipur \u00b7 Jodhpur \u00b7 Jaisalmer Desert",
+    "category": "domestic",
+    "tags": [
+      "culture",
+      "heritage",
+      "domestic"
+    ],
+    "duration": "5D / 4N",
+    "days": 5,
+    "price": 11999,
+    "originalPrice": 15999,
+    "groupSize": "15\u201320 People",
+    "startDate": "2026-02-27",
+    "endDate": "2026-03-03",
+    "nextBatch": "Feb 27, 2026",
+    "difficulty": "Easy",
+    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=800&q=80"
+    ],
+    "departure": "Delhi",
+    "highlights": [
+      "Jaipur Pink City",
+      "Jodhpur Blue City",
+      "Jaisalmer Desert Camp",
+      "Camel Safari",
+      "Thar Sunset"
+    ],
+    "inclusions": [
+      "AC Sleeper Bus",
+      "Hotels (3-Star)",
+      "Breakfast + Dinner",
+      "Guide",
+      "Camel Safari"
+    ],
+    "exclusions": [
+      "Lunches",
+      "Entry Tickets",
+      "Personal Expenses"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Jaipur",
+        "desc": "Overnight bus. Arrive Jaipur morning."
+      },
+      {
+        "day": 2,
+        "title": "Jaipur Sightseeing",
+        "desc": "Amber Fort, Hawa Mahal, City Palace."
+      },
+      {
+        "day": 3,
+        "title": "Jodhpur",
+        "desc": "Mehrangarh Fort, Jaswant Thada."
+      },
+      {
+        "day": 4,
+        "title": "Jaisalmer + Desert",
+        "desc": "Sam sand dunes. Sunset camel safari. Desert camp."
+      },
+      {
+        "day": 5,
+        "title": "Return Delhi",
+        "desc": "Morning drive, reach Delhi by evening."
+      }
+    ],
+    "description": "Royal Rajasthan \u2014 from pink Jaipur to blue Jodhpur to golden Jaisalmer. Camel safaris, desert camping, royal forts.",
+    "rating": 4.7,
+    "reviews": 93,
+    "badge": "Popular"
+  },
+  {
+    "id": "kedarkantha-winter-trek-6d",
+    "slug": "kedarkantha-winter-trek-6d",
+    "title": "Kedarkantha Winter Trek",
+    "subtitle": "Snow Trails \u00b7 Summit 3800m \u00b7 Uttarakhand",
+    "category": "domestic",
+    "tags": [
+      "backpacking",
+      "trek",
+      "adventure",
+      "uttarakhand"
+    ],
+    "duration": "6D / 5N",
+    "days": 6,
+    "price": 12999,
+    "originalPrice": 16999,
+    "groupSize": "10\u201315 People",
+    "startDate": "2026-02-22",
+    "endDate": "2026-02-27",
+    "nextBatch": "Feb 22, 2026",
+    "difficulty": "Moderate",
+    "image": "https://images.unsplash.com/photo-1508193638397-1122269fe2d6?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1508193638397-1122269fe2d6?w=800&q=80"
+    ],
+    "departure": "Delhi",
+    "highlights": [
+      "Summit at 3800m",
+      "Snow-covered forests",
+      "360\u00b0 Himalayan views",
+      "Oak & Pine trails",
+      "Base camp stay"
+    ],
+    "inclusions": [
+      "Delhi\u2013Dehradun\u2013Delhi transport",
+      "Trek equipment",
+      "Camping + tent",
+      "All meals",
+      "Certified guide"
+    ],
+    "exclusions": [
+      "Personal trekking gear",
+      "Insurance"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Sankri",
+        "desc": "Overnight drive to Sankri base camp."
+      },
+      {
+        "day": 2,
+        "title": "Sankri to Juda ka Talab",
+        "desc": "5km trek through dense forest."
+      },
+      {
+        "day": 3,
+        "title": "Juda ka Talab to Kedarkantha base",
+        "desc": "Trek with views of Swargarohini peak."
+      },
+      {
+        "day": 4,
+        "title": "Summit Day",
+        "desc": "3am start. Summit at 3800m by sunrise. Epic panorama."
+      },
+      {
+        "day": 5,
+        "title": "Descent to Sankri",
+        "desc": "Trek down through snow-covered meadows."
+      },
+      {
+        "day": 6,
+        "title": "Return Delhi",
+        "desc": "Drive back. Reach Delhi by night."
+      }
+    ],
+    "description": "Kedarkantha is India's best winter summit trek. Snow-capped peaks, frozen lakes, and breathtaking 360\u00b0 views.",
+    "rating": 4.9,
+    "reviews": 112,
+    "badge": "Bestseller"
+  },
+  {
+    "id": "goa-beach-weekend-3d",
+    "slug": "goa-beach-weekend-3d",
+    "title": "Goa Beach Weekend",
+    "subtitle": "North Goa \u00b7 Beaches \u00b7 Nightlife \u00b7 Seafood",
+    "category": "domestic",
+    "tags": [
+      "beach",
+      "weekend",
+      "local-tours"
+    ],
+    "duration": "3D / 2N",
+    "days": 3,
+    "price": 8499,
+    "originalPrice": 10999,
+    "groupSize": "15\u201325 People",
+    "startDate": "2026-02-27",
+    "endDate": "2026-03-01",
+    "nextBatch": "Feb 27, 2026",
+    "difficulty": "Easy",
+    "image": "https://images.unsplash.com/photo-1587922546307-776227941871?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1587922546307-776227941871?w=800&q=80"
+    ],
+    "departure": "Delhi",
+    "highlights": [
+      "Baga Beach",
+      "Vagator Sunset",
+      "Anjuna Flea Market",
+      "Dudhsagar Waterfall",
+      "Beach Party"
+    ],
+    "inclusions": [
+      "Flight Delhi\u2013Goa\u2013Delhi",
+      "Beach Resort",
+      "Breakfast",
+      "Local transport"
+    ],
+    "exclusions": [
+      "Meals",
+      "Personal Expenses",
+      "Water sports"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Fly to Goa",
+        "desc": "Morning flight. Check-in beach resort. Baga Beach evening."
+      },
+      {
+        "day": 2,
+        "title": "Dudhsagar + Beaches",
+        "desc": "Dudhsagar falls trip. Vagator sunset. Candlelight beach dinner."
+      },
+      {
+        "day": 3,
+        "title": "Anjuna + Return",
+        "desc": "Anjuna flea market. Afternoon flight back Delhi."
+      }
+    ],
+    "description": "The perfect Goa escape \u2014 beaches, sunsets, seafood, and nightlife with your group. Fly in, party out.",
+    "rating": 4.7,
+    "reviews": 168,
+    "badge": "Weekend"
+  },
+  {
+    "id": "manali-winter-snow-4d",
+    "slug": "manali-winter-snow-4d",
+    "title": "Manali Snow Trip",
+    "subtitle": "Solang Valley \u00b7 Rohtang \u00b7 Snow Activities",
+    "category": "domestic",
+    "tags": [
+      "snow",
+      "adventure",
+      "weekend",
+      "himachal"
+    ],
+    "duration": "4D / 3N",
+    "days": 4,
+    "price": 9499,
+    "originalPrice": 12999,
+    "groupSize": "12\u201320 People",
+    "startDate": "2026-02-13",
+    "endDate": "2026-02-16",
+    "nextBatch": "Feb 13, 2026",
+    "difficulty": "Easy",
+    "image": "https://images.unsplash.com/photo-1605649461784-eaa70b744d55?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1605649461784-eaa70b744d55?w=800&q=80"
+    ],
+    "departure": "Delhi",
+    "highlights": [
+      "Solang Valley Snow",
+      "Rohtang Pass",
+      "Snow Activities",
+      "Mall Road Manali",
+      "Hadimba Temple"
+    ],
+    "inclusions": [
+      "Volvo Bus Delhi\u2013Manali\u2013Delhi",
+      "Hotel (2-Star)",
+      "Breakfast + Dinner",
+      "Snow activity tickets"
+    ],
+    "exclusions": [
+      "Lunches",
+      "Personal Expenses"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Manali",
+        "desc": "Overnight Volvo. Arrive Manali morning."
+      },
+      {
+        "day": 2,
+        "title": "Solang Valley",
+        "desc": "Snow activities \u2014 zorbing, skiing, snowman. Lunch at valley."
+      },
+      {
+        "day": 3,
+        "title": "Old Manali + Rohtang",
+        "desc": "Rohtang pass. Old Manali cafes. Hadimba Devi temple."
+      },
+      {
+        "day": 4,
+        "title": "Return Delhi",
+        "desc": "Bus back. Arrive Delhi midnight."
+      }
+    ],
+    "description": "Manali's snowfields in winter \u2014 Solang Valley, Rohtang Pass, snow activities. Group fun at 2050m altitude.",
+    "rating": 4.6,
+    "reviews": 201,
+    "badge": "Popular"
+  },
+  {
+    "id": "bali-adventure-7d",
+    "slug": "bali-adventure-7d",
+    "title": "Bali Group Adventure",
+    "subtitle": "Ubud \u00b7 Seminyak \u00b7 Volcano Trek \u00b7 Rice Terraces",
+    "category": "international",
+    "tags": [
+      "international",
+      "beach",
+      "culture",
+      "adventure"
+    ],
+    "duration": "7D / 6N",
+    "days": 7,
+    "price": 32999,
+    "originalPrice": 42999,
+    "groupSize": "10\u201315 People",
+    "startDate": "2026-03-28",
+    "endDate": "2026-04-03",
+    "nextBatch": "Mar 28, 2026",
+    "difficulty": "Easy\u2013Moderate",
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=800&q=80"
+    ],
+    "departure": "Delhi",
+    "highlights": [
+      "Mt. Batur Sunrise Trek",
+      "Tegallalang Rice Terraces",
+      "Uluwatu Cliff Temple",
+      "Seminyak Beach",
+      "Ubud Monkey Forest"
+    ],
+    "inclusions": [
+      "Return Flights",
+      "Villa Stay",
+      "Breakfast Daily",
+      "Guide",
+      "Batur Trek"
+    ],
+    "exclusions": [
+      "Lunches/Dinners",
+      "Personal Expenses"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Bali",
+        "desc": "Night flight. Arrive Ngurah Rai airport."
+      },
+      {
+        "day": 2,
+        "title": "Ubud Cultural",
+        "desc": "Monkey Forest, rice terraces, local market."
+      },
+      {
+        "day": 3,
+        "title": "Mt. Batur Trek",
+        "desc": "2am trek. Summit at sunrise. Magical views."
+      },
+      {
+        "day": 4,
+        "title": "Seminyak",
+        "desc": "Beach day. Sunset at Tanah Lot temple."
+      },
+      {
+        "day": 5,
+        "title": "Uluwatu",
+        "desc": "Kecak fire dance, cliff temple, hidden beaches."
+      },
+      {
+        "day": 6,
+        "title": "Free Day",
+        "desc": "Shopping, spa, surfing at Kuta."
+      },
+      {
+        "day": 7,
+        "title": "Return Delhi",
+        "desc": "Flight back."
+      }
+    ],
+    "description": "Bali is magic \u2014 volcano treks, rice terraces, ancient temples, and beaches. The group trip of a lifetime.",
+    "rating": 4.9,
+    "reviews": 64,
+    "badge": "Hot Deal"
+  },
+  {
+    "id": "rishikesh-adventure-weekend",
+    "slug": "rishikesh-adventure-weekend",
+    "title": "Rishikesh Adventure Weekend",
+    "subtitle": "River Rafting \u00b7 Bungee Jump \u00b7 Camping \u00b7 Yoga",
+    "category": "domestic",
+    "tags": [
+      "adventure",
+      "weekend",
+      "local-tours"
+    ],
+    "duration": "3D / 2N",
+    "days": 3,
+    "price": 6499,
+    "originalPrice": 8499,
+    "groupSize": "15\u201325 People",
+    "startDate": "2026-02-21",
+    "endDate": "2026-02-23",
+    "nextBatch": "Feb 21, 2026",
+    "difficulty": "Moderate",
+    "image": "https://images.unsplash.com/photo-1530866495561-507c9faab2ed?w=800&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1530866495561-507c9faab2ed?w=800&q=80"
+    ],
+    "departure": "Delhi",
+    "highlights": [
+      "Grade 3\u20134 Rafting",
+      "Bungee Jump 83m",
+      "Beach Camping",
+      "Ganga Aarti",
+      "Lakshman Jhula"
+    ],
+    "inclusions": [
+      "AC bus Delhi\u2013Rishikesh",
+      "Beach camp stay",
+      "Meals",
+      "Rafting + guide"
+    ],
+    "exclusions": [
+      "Bungee (add-on)",
+      "Personal Expenses"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Rishikesh",
+        "desc": "Morning bus. Arrive noon. Beach camp setup. Ganga Aarti evening."
+      },
+      {
+        "day": 2,
+        "title": "Rafting + Activities",
+        "desc": "16km rafting (Grade 3\u20134). Optional bungee jump. Bonfire night."
+      },
+      {
+        "day": 3,
+        "title": "Yoga + Return",
+        "desc": "Morning yoga. Laxman Jhula. Return Delhi."
+      }
+    ],
+    "description": "Grade 3\u20134 rafting, bungee jumping, bonfire camping on Ganga banks. Rishikesh adventure with your crew.",
+    "rating": 4.7,
+    "reviews": 189,
+    "badge": "Weekend"
+  },
+  {
+    "id": "hampta-pass-trek-6d",
+    "slug": "hampta-pass-trek-6d",
+    "title": "Hampta Pass Trek",
+    "subtitle": "Kullu to Spiti \u00b7 High Altitude Pass \u00b7 4270m",
+    "category": "domestic",
+    "tags": [
+      "backpacking",
+      "trek",
+      "adventure",
+      "himachal"
+    ],
+    "duration": "6D / 5N",
+    "days": 6,
+    "price": 13999,
+    "originalPrice": 17999,
+    "groupSize": "10\u201315 People",
+    "startDate": "2026-03-15",
+    "endDate": "2026-03-20",
+    "nextBatch": "Mar 15, 2026",
+    "difficulty": "Moderate\u2013Hard",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    "gallery": [],
+    "departure": "Delhi",
+    "highlights": [
+      "Hampta Pass (4270m)",
+      "Chandratal Lake",
+      "Crossing from green to desert",
+      "Shea Goru camp",
+      "Jobra meadows"
+    ],
+    "inclusions": [
+      "Transport Delhi\u2013Manali\u2013Delhi",
+      "Camping + tents",
+      "All meals",
+      "Guide + support staff",
+      "Safety equipment"
+    ],
+    "exclusions": [
+      "Personal trekking gear",
+      "Insurance"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Manali",
+        "desc": "Overnight Volvo. Arrive Manali."
+      },
+      {
+        "day": 2,
+        "title": "Manali to Jobra",
+        "desc": "Drive to Jobra. Camp in meadows."
+      },
+      {
+        "day": 3,
+        "title": "Jobra to Shea Goru",
+        "desc": "Trek 10km. Glacier views."
+      },
+      {
+        "day": 4,
+        "title": "Cross Hampta Pass",
+        "desc": "Summit day at 4270m. Cross to Spiti side."
+      },
+      {
+        "day": 5,
+        "title": "Chandratal Lake",
+        "desc": "Drive to Chandratal. Camp by the lake."
+      },
+      {
+        "day": 6,
+        "title": "Return Delhi",
+        "desc": "Drive Kaza\u2013Manali\u2013Delhi."
+      }
+    ],
+    "description": "Hampta Pass \u2014 the most dramatic trail in Himachal. Cross from lush Kullu valleys to arid Lahaul-Spiti in 4 days.",
+    "rating": 4.8,
+    "reviews": 45,
+    "badge": "Adventure"
+  },
+  {
+    "id": "nepal-pokhara-everest-8d",
+    "slug": "nepal-pokhara-everest-8d",
+    "title": "Nepal Pokhara & EBC View",
+    "subtitle": "Kathmandu \u00b7 Pokhara \u00b7 Poon Hill \u00b7 Everest Sunrise",
+    "category": "international",
+    "tags": [
+      "international",
+      "backpacking",
+      "trek",
+      "adventure"
+    ],
+    "duration": "8D / 7N",
+    "days": 8,
+    "price": 19999,
+    "originalPrice": 25999,
+    "groupSize": "10\u201314 People",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-14",
+    "nextBatch": "Mar 7, 2026",
+    "difficulty": "Moderate",
+    "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&q=80",
+    "gallery": [],
+    "departure": "Delhi",
+    "highlights": [
+      "Poon Hill Sunrise (3210m)",
+      "Phewa Lake Pokhara",
+      "Pashupatinath Temple",
+      "Kathmandu Durbar Square",
+      "Mountain Views"
+    ],
+    "inclusions": [
+      "Flights Delhi\u2013Kathmandu\u2013Delhi",
+      "Hotels",
+      "Breakfast + Dinner",
+      "Trekking guide",
+      "Permits"
+    ],
+    "exclusions": [
+      "Lunches",
+      "Personal Expenses"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Delhi to Kathmandu",
+        "desc": "Fly. Transfer to hotel. Thamel exploration."
+      },
+      {
+        "day": 2,
+        "title": "Kathmandu Sightseeing",
+        "desc": "Pashupatinath, Boudhanath, Durbar Square."
+      },
+      {
+        "day": 3,
+        "title": "Kathmandu to Pokhara",
+        "desc": "Scenic bus/flight. Check-in lakeside hotel."
+      },
+      {
+        "day": 4,
+        "title": "Nayapul to Ghorepani",
+        "desc": "Start Poon Hill trek. Pine forests."
+      },
+      {
+        "day": 5,
+        "title": "Poon Hill Sunrise",
+        "desc": "4am hike to Poon Hill. Epic Annapurna sunrise."
+      },
+      {
+        "day": 6,
+        "title": "Trek down to Nayapul",
+        "desc": "Descend. Drive Pokhara."
+      },
+      {
+        "day": 7,
+        "title": "Pokhara Lake Day",
+        "desc": "Phewa Lake boat. Paragliding optional."
+      },
+      {
+        "day": 8,
+        "title": "Return Delhi",
+        "desc": "Fly Kathmandu\u2013Delhi."
+      }
+    ],
+    "description": "Nepal on a budget \u2014 Kathmandu's temples, Pokhara's lake, Poon Hill's Himalayan sunrise. One epic group adventure.",
+    "rating": 4.8,
+    "reviews": 73,
+    "badge": "International"
+  }
+]
