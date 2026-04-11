@@ -26,9 +26,9 @@ export function getDiscountPercent(original: number, sale: number): number {
   return Math.round(((original - sale) / original) * 100)
 }
 
-export const WHATSAPP_NUMBER = '919876543210'
-export const PHONE_NUMBER = '+919876543210'
-export const PHONE_DISPLAY = '+91 98765 43210'
+export const WHATSAPP_NUMBER = '918700289516'
+export const PHONE_NUMBER = '+918700289516'
+export const PHONE_DISPLAY = '+91 87002 89516'
 
 export function getWhatsAppLink(message: string = ''): string {
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`

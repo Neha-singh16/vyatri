@@ -68,7 +68,7 @@ export default function ContactPage() {
               <div className="space-y-4">
                 {[
                   { icon: <MapPin size={18} />, title: 'Our Office', content: 'B-24, Connaught Place\nNew Delhi – 110001', color: 'bg-[#1a3875]/10 text-[#1a3875]' },
-                  { icon: <Phone size={18} />, title: 'Phone / WhatsApp', content: '+91 98765 43210\nMon–Sat: 9 AM – 7 PM', color: 'bg-green-100 text-green-600', link: 'tel:+919876543210' },
+                  { icon: <Phone size={18} />, title: 'Phone / WhatsApp', content: '+91 87002 89516\nMon–Sat: 9 AM – 7 PM', color: 'bg-green-100 text-green-600', link: 'tel:+918700289516' },
                   { icon: <Mail size={18} />, title: 'Email', content: 'hello@vyatri.in\nReply within 4-6 hours', color: 'bg-orange-100 text-[#ff6b1a]', link: 'mailto:hello@vyatri.in' },
                   { icon: <Clock size={18} />, title: 'Office Hours', content: 'Mon–Sat: 9 AM – 7 PM\nSun: 10 AM – 4 PM', color: 'bg-purple-100 text-purple-600' },
                 ].map((item) => (
@@ -92,7 +92,7 @@ export default function ContactPage() {
             </div>
 
             <a
-              href="https://wa.me/919876543210?text=Hi%20Vyatri!%20I%20want%20to%20enquire%20about%20a%20trip."
+              href="https://wa.me/918700289516?text=Hi%20Vyatri!%20I%20want%20to%20enquire%20about%20a%20trip."
               target="_blank"
               rel="noopener noreferrer"
               className="w-full flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#1ebe5d] active:scale-[.98] text-white py-3.5 rounded-xl font-bold transition-all shadow-lg shadow-green-500/25 min-h-[52px]"
@@ -128,7 +128,7 @@ export default function ContactPage() {
                     For instant response, WhatsApp us.
                   </p>
                   <a
-                    href="https://wa.me/919876543210"
+                    href="https://wa.me/918700289516"
                     className="mt-6 inline-flex items-center gap-2 bg-[#25D366] text-white px-6 py-3 rounded-xl font-bold text-sm"
                   >
                     WhatsApp Us
@@ -156,7 +156,7 @@ export default function ContactPage() {
                         id="contact-phone"
                         {...register('phone')}
                         type="tel"
-                        placeholder="+91 98765 43210"
+                        placeholder="+91 87002 89516"
                         className={cn(
                           "w-full px-4 py-3 rounded-xl border text-sm focus:outline-none focus:ring-2 focus:ring-[#1a3875]/30 focus:border-[#1a3875]/50 transition-all min-h-[48px]",
                           errors.phone ? "border-red-400 bg-red-50" : "border-gray-200 bg-gray-50/80 focus:bg-white"
@@ -254,7 +254,7 @@ export default function ContactPage() {
                 <a href="/destinations/domestic" className="btn-primary px-6 py-3 rounded-xl text-sm font-bold">
                   Browse Trips
                 </a>
-                <a href="tel:+919876543210" className="btn-outline text-white border-white/25 hover:bg-white/10 hover:text-white px-6 py-3 rounded-xl text-sm font-semibold">
+                <a href="tel:+918700289516" className="btn-outline text-white border-white/25 hover:bg-white/10 hover:text-white px-6 py-3 rounded-xl text-sm font-semibold">
                   Call Now
                 </a>
               </div>

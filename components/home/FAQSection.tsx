@@ -22,7 +22,7 @@ export default function FAQSection() {
             className="btn-outline px-6 py-2.5 rounded-xl text-sm font-semibold min-h-[44px] flex items-center gap-1">
             View All 20+ FAQs →
           </Link>
-          <a href="https://wa.me/919876543210" target="_blank" rel="noopener noreferrer"
+          <a href="https://wa.me/918700289516" target="_blank" rel="noopener noreferrer"
             className="text-[#25D366] hover:text-[#1fbd5a] font-semibold text-sm transition-colors inline-flex items-center gap-1 min-h-[44px]">
             Ask on WhatsApp →
           </a>

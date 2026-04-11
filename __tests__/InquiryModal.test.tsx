@@ -82,7 +82,7 @@ function setup() {
 
 async function fillValidForm(user: ReturnType<typeof setup>) {
   await user.type(screen.getByPlaceholderText('Your Full Name *'), 'John Doe')
-  await user.type(screen.getByPlaceholderText('WhatsApp number *'), '9876543210')
+  await user.type(screen.getByPlaceholderText('WhatsApp number *'), '8700289516')
   await user.type(screen.getByPlaceholderText('Email Address *'), 'john@example.com')
   await user.type(
     screen.getByPlaceholderText(/preferred dates, budget/i),
@@ -137,7 +137,7 @@ describe('InquiryModal', () => {
     render(<InquiryModal isOpen={true} onClose={jest.fn()} />)
 
     await user.type(screen.getByPlaceholderText('Your Full Name *'), 'Jane')
-    await user.type(screen.getByPlaceholderText('WhatsApp number *'), '9876543210')
+    await user.type(screen.getByPlaceholderText('WhatsApp number *'), '8700289516')
     await user.type(screen.getByPlaceholderText('Email Address *'), 'not-an-email')
     await user.type(
       screen.getByPlaceholderText(/preferred dates, budget/i),

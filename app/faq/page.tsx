@@ -114,7 +114,7 @@ export default function FAQPage() {
           <p className="text-white/80 mb-6">Our travel experts are available Mon–Sat 9AM–7PM</p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <a
-              href="https://wa.me/919876543210"
+              href="https://wa.me/918700289516"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-accent px-6 py-3 rounded-xl font-bold text-sm hover:bg-white/90 transition-all"
@@ -122,10 +122,10 @@ export default function FAQPage() {
               WhatsApp Us
             </a>
             <a
-              href="tel:+919876543210"
+              href="tel:+918700289516"
               className="border-2 border-white text-white px-6 py-3 rounded-xl font-bold text-sm hover:bg-white/10 transition-all"
             >
-              Call +91 98765 43210
+              Call +91 87002 89516
             </a>
           </div>
         </div>

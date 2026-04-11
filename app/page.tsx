@@ -25,7 +25,7 @@ export default function HomePage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         '@context':'https://schema.org','@type':'TravelAgency',
         name:'Vyatri Trip Planner',url:'https://vyatri.in',
-        telephone:'+91-98765-43210',email:'hello@vyatri.in',
+        telephone:'+91-87002-89516',email:'hello@vyatri.in',
         address:{'@type':'PostalAddress',streetAddress:'B-24, Connaught Place',addressLocality:'New Delhi',postalCode:'110001',addressCountry:'IN'},
         aggregateRating:{'@type':'AggregateRating',ratingValue:'4.9',reviewCount:'856'},
       })}} />

@@ -276,7 +276,7 @@ export default function TripDetailClient({ trip, related }: Props) {
                       </button>
 
                       <a
-                        href={`https://wa.me/919876543210?text=Hi! I want to book ${trip.title}. Please share more details.`}
+                        href={`https://wa.me/918700289516?text=Hi! I want to book ${trip.title}. Please share more details.`}
                         target="_blank"
                         rel="noopener noreferrer"
                         className="w-full bg-[#25D366] text-white py-3 rounded-xl font-bold text-sm transition-all hover:bg-[#1ebe5d] flex items-center justify-center gap-2"
