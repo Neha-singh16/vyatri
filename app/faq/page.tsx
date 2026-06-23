@@ -1,11 +1,6 @@
 import type { Metadata } from 'next'
 import FAQAccordion from '@/components/shared/FAQAccordion'
 
-export const metadata: Metadata = {
-  title: 'FAQ | Frequently Asked Questions',
-  description: 'Answers to the most common questions about Vyatri group trips — bookings, payments, safety, cancellations, and more.',
-}
-
 const allFAQs = [
   {
     q: "Do I need to know anyone to join a Vyatri group trip?",
@@ -89,9 +84,29 @@ const allFAQs = [
   },
 ]
 
+export const metadata: Metadata = {
+  title: 'FAQ | Frequently Asked Questions — Vyatri Trips',
+  description: 'Answers to the most common questions about Vyatri group trips — bookings, payments, safety, cancellations, and more.',
+  alternates: { canonical: 'https://vyatri.in/faq' },
+}
+
+const faqJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: allFAQs.map((item) => ({
+    '@type': 'Question',
+    name: item.q,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: item.a,
+    },
+  })),
+}
+
 export default function FAQPage() {
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
       {/* Header */}
       <div className="bg-primary py-16 text-center px-4">
         <div className="text-accent font-semibold text-sm uppercase tracking-wider mb-2">Help Center</div>

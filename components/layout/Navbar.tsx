@@ -45,7 +45,7 @@ export default function Navbar() {
   useFocusTrap(menuRef, mobileOpen)
 
   useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 50)
+    const onScroll = () => setScrolled(window.scrollY > 60)
     window.addEventListener('scroll', onScroll, { passive: true })
     return () => window.removeEventListener('scroll', onScroll)
   }, [])
@@ -202,6 +202,15 @@ export default function Navbar() {
                 )}>
                 <Phone size={13} aria-hidden="true" /> {PHONE_DISPLAY}
               </a>
+              {/* "Book a Trip" CTA — visible when scrolled */}
+              {scrolled && (
+                <InquiryTrigger
+                  className="bg-[#ff6b1a] hover:bg-[#ea5a0b] text-white px-5 py-2.5 rounded-xl text-sm font-bold flex items-center gap-1.5 min-h-[42px] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white hover:scale-105 transition-all shadow-lg shadow-orange-500/25"
+                  aria-label="Book a trip — open enquiry form"
+                >
+                  <Zap size={14} aria-hidden="true" /> Book a Trip
+                </InquiryTrigger>
+              )}
               <InquiryTrigger className="btn-primary px-5 py-2.5 rounded-xl text-sm font-bold flex items-center gap-1.5 min-h-[42px] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white hover:scale-105 transition-transform">
                 <Zap size={14} aria-hidden="true" /> Enquire Now
               </InquiryTrigger>
